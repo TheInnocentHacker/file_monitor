@@ -11,4 +11,4 @@ or
 
 You can give your own directory to monitor:
 
-file_monitor.py -p C:\Users\vaibhav\Downloads, C:\Users
+file_monitor.py  -p  C:\Users\vaibhav\Downloads, C:\Users
