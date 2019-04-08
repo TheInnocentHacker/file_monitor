@@ -14,3 +14,7 @@ or
 You can give your own directory to monitor:
 
 file_monitor.py  -p  C:\Users\vaibhav\Downloads, C:\Users
+# Note:
+You will need pywin32 for this program. You can install it using command:
+
+pip install pywin32
