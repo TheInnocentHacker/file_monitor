@@ -1,6 +1,6 @@
 # file_monitor
 
-file_monitor.py is a simple directory monitoring program. You can monitor any directory by just passing it as a parameter with '-p' switch or it will just start monitoring default temporary directories.
+file_monitor.py is a simple directory monitoring & reverse engineering program. You can monitor any directory by just passing it as a parameter with '-p' switch or it will just start monitoring default temporary directories.
 
 # Usage:
 Directly call file_monitor.py which will start monitoring temporary directories of windows, 
